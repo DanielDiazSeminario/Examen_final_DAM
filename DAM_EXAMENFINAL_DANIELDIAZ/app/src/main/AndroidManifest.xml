@@ -10,16 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.DAM_EXAMEN_FINAL_DANIELDIAZ"
+        android:theme="@style/Theme.DAM_EXAMENFINAL_DANIELDIAZ"
         tools:targetApi="31">
-        <activity
-            android:name=".NotasActivity"
-            android:exported="false"
-            android:label="@string/title_activity_notas">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
